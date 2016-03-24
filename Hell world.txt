@@ -1,6 +1,7 @@
-print("Hell world")
-print("Hello everybody")
-print("Helo!")
-print("Опять новый класс разрабатываю, trust")
-print("Helo my dear friend")
-print("Glade to see you")
+print("Hell world";)
+print("Hello everybody";)
+print("Helo!";)
+print("Опять новый класс разрабатываю, trust";)
+print("Helo my dear friend";)
+print("Glade to see you";)
+
