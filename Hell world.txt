@@ -1,4 +1,4 @@
-print("Hell world")
-print("Hello everybody")
-print("Helo!")
-print("Опять новый класс разрабатываю, trust")
+print("Hell world";)
+print("Hello everybody";)
+print("Helo!";)
+print("Опять новый класс разрабатываю, trust";)
